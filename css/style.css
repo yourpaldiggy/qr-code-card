@@ -1,0 +1,54 @@
+
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: Outfit;
+    
+    font-weight: 400,700;
+    size-adjust: 1440px;
+    
+}
+.card {
+    background: hsl(0, 0%, 100%);
+    margin: 20% auto;
+    border-radius: 25px;
+    max-width: 25%;
+    max-height: 25%;
+    margin: 0, 0, 46px;
+    border: solid, 1px, rgba(0, 0, 0, 0.1);
+    
+    
+}
+
+.img {
+    
+    margin-top: 10px;
+    margin-left: 15px;
+    margin: 0, auto;
+    max-width: 90%;
+    border-radius: 15px;
+}
+
+.card:hover {
+    -moz-box-shadow: 0, 0, 10px, #ccc;
+    -webkit-box-shadow: 0, 0, 10px, rgb(46, 23, 23);
+    box-shadow: 0, 0, 10px, rgb(46, 23, 23);
+
+}
+
+h4 {
+    text-align: center;
+    margin: 0, auto;
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    font-size: 15px;
+    text-align: center;
+    margin: 0, auto;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-bottom: 35px;
+    color: hsl(220, 15%, 55%);
+
+}
