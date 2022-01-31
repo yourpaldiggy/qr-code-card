@@ -36,7 +36,8 @@ body {
 
 }
 
-h4 {
+h1 {
+    font-size: 1.50rem;
     text-align: center;
     margin: 0, auto;
     color: hsl(218, 44%, 22%);
@@ -51,4 +52,9 @@ p {
     padding-bottom: 35px;
     color: hsl(220, 15%, 55%);
 
+}
+
+footer {
+    text-align: center;
+    font-size: 0.90rem;
 }
