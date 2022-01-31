@@ -57,3 +57,17 @@ footer {
     font-size: 12px;
     font-weight: 400,700;
 }
+
+/*Mobile*/
+@media screen, (max-width: 375px){
+    card{
+        max-width:fit-content;
+    }
+}
+
+/*Desktop*/
+@media screen, (max-width: 1440px){
+    card{
+        max-width:fit-content;
+    }
+}
