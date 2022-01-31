@@ -60,14 +60,14 @@ footer {
 
 /*Mobile*/
 @media screen, (max-width: 375px){
-    card{
-        max-width:375px;
+    .card {
+        max-width: 245px;
     }
 }
 
 /*Desktop*/
 @media screen, (max-width: 1440px){
-    card{
-        max-width:fit-content;
+    .card{
+        max-width:245px;
     }
 }
