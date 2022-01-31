@@ -61,7 +61,7 @@ footer {
 /*Mobile*/
 @media screen, (max-width: 375px){
     card{
-        max-width:fit-content;
+        max-width:375px;
     }
 }
 
