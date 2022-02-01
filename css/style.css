@@ -59,14 +59,14 @@ footer {
 }
 
 /*Mobile - not sure how to implement this yet*/
-@media screen, (max-width: 375px){
+@media (max-width: 576px){
     .card {
-        max-width: 245px;
+        max-width: 375px;
     }
 }
 
 /*Desktop - not sure how to implement this yet*/
-@media screen, (max-width: 1440px){
+@media (max-width: 1440px){
     .card{
         max-width:245px;
     }
