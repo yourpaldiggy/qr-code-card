@@ -58,14 +58,14 @@ footer {
     font-weight: 400,700;
 }
 
-/*Mobile*/
-@media screen, (max-width: 576px){
+/*Mobile - not sure how to implement this yet*/
+@media screen, (max-width: 375px){
     .card {
-        max-width: 300px;
+        max-width: 245px;
     }
 }
 
-/*Desktop*/
+/*Desktop - not sure how to implement this yet*/
 @media screen, (max-width: 1440px){
     .card{
         max-width:245px;
