@@ -59,9 +59,9 @@ footer {
 }
 
 /*Mobile - not sure how to implement this yet*/
-@media (max-width: 576px){
+@media (max-width: 375px){
     .card {
-        max-width: 375px;
+        max-width: 300px;
     }
 }
 
